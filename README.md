@@ -1,2 +1,2 @@
-# PracticeQuotesAPP
-Practica Android: app de cuotas
+# PracticeProductsAPP
+Practica Android: app de productos
